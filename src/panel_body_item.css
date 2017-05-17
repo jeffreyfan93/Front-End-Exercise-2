@@ -1,0 +1,43 @@
+.result-container {
+  display: flex;
+  margin: 40px 0;
+  padding: 0 75px;
+}
+
+.result-container:hover {
+  background-color: #c4ece4;
+}
+
+.new {
+  position: absolute;
+  left: 15px;
+}
+
+.result-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.result-subtitle {
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  color: #555555;
+}
+
+.result-body {
+  display: flex;
+}
+
+.result-body-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  color: #555555;
+}
+
+.read-arrow {
+  padding: 0 5px;
+  width: 15px;
+  height: 15px;
+}

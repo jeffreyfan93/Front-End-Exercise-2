@@ -1,0 +1,18 @@
+.body-container {
+}
+
+.body-search {
+  font-family: 'Open Sans', sans-serif;
+  text-align: right;
+}
+
+.search-input {
+  margin-right: 25px;
+  margin-top: 25px;
+}
+
+.results-list {
+  list-style: none;
+  overflow-y: scroll;
+  max-height: 1000px;
+}

@@ -1,0 +1,28 @@
+.header-container {
+  position: relative;
+  display: flex;
+  width: 650px;
+  height: 175px;
+  border-radius: 15px;
+  border-bottom: 1.5pt solid #8da8bf;
+  background-color: #45b8e6;
+
+}
+
+.header-title {
+  position: relative;
+  left: 75px;
+  top: 70px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 26px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.picture {
+  position: absolute;
+  right: 25px;
+  top: 60px;
+  height: 50px;
+  width: 50px;
+}
